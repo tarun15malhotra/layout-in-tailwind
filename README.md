@@ -2,7 +2,7 @@ Create any layout in Tailwind CSS (Tutorial 1)
 
 https://www.youtube.com/watch?v=eiRcOPiNoDs
 
-Source Code
+Source Code:  Click on Code tab to see source code
 
 <!--<div class="grid gap-4 m-4 sm:grid-cols-2">
   <div class="bg-orange-500 rounded shadow-xl min-h-[100px]"></div>
